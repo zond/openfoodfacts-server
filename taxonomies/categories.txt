@@ -3557,7 +3557,7 @@ ciqual_food_name:fr:Boisson plate aux fruits (teneur en jus non spécifiée), su
 
 <en:Still fruit soft drink
 en:Still fruit soft drink with sugar and with less than 10% of fruit juice
-fr:Boissons plates aux fruits sucrée avec moins de 10% de jus
+fr:Boissons plates aux fruits sucrées avec moins de 10% de jus
 agribalyse_food_code:en:18023
 ciqual_food_code:en:18023
 ciqual_food_name:en:Fruit soft drink, still (less than 10% of fruit juice), with sugar
@@ -3657,24 +3657,24 @@ ciqual_food_name:fr:Boisson gazeuse, sans jus de fruit, sucrée, avec édulcoran
 
 <en:Carbonated soft drinks without fruit juice
 en:Carbonated soft drink without fruit juice without sugar and with artificial sweeteners
-fr:Boisson gazeuse sans jus de fruit non sucrée avec édulcorants
+fr:Boissons gazeuses sans jus de fruit non sucrée avec édulcorants
 ciqual_food_code:en:18001
 ciqual_food_name:en:Soft drink, carbonated, without fruit juice, without sugar and with artificial sweetener(s)
 ciqual_food_name:fr:Boisson gazeuse, sans jus de fruit, non sucrée, avec édulcorants
 
 <en:Carbonated drinks
-en:Carbonated fruit soft drink
-fr:Boisson gazeuse aux fruits
+en:Carbonated fruit soft drinks
+fr:Boissons gazeuses aux fruits
 agribalyse_proxy_food_code:en:18019
 
-<en:Carbonated fruit soft drink
-en:Carbonated fruit soft drink with sugar
-fr:Boisson gazeuse aux fruits sucrée
+<en:Carbonated fruit soft drinks
+en:Carbonated fruit soft drinks with sugar
+fr:Boissons gazeuses aux fruits sucrées
 ciqual_food_code:en:18048
 ciqual_food_name:en:Fruit soft drink, carbonated (fruit juice content unknown), with sugar
 ciqual_food_name:fr:Boisson gazeuse aux fruits (teneur en jus non spécifiée), sucrée (aliment moyen)
 
-<en:Carbonated fruit soft drink
+<en:Carbonated fruit soft drinks
 en:Carbonated fruit soft drinks with sugar with 10-50% of fruit juice
 fr:Boissons gazeuses non sucrées aux fruits avec 10 à 50% de jus
 agribalyse_food_code:en:18019
@@ -3682,37 +3682,37 @@ ciqual_food_code:en:18019
 ciqual_food_name:en:Fruit soft drink, carbonated (10-50% of fruit juice), with sugar
 ciqual_food_name:fr:Boisson gazeuse aux fruits (de 10 à 50% de jus), sucrée
 
-<en:Carbonated fruit soft drink
-en:Carbonated fruit soft drink with less than 10% of fruit juice
-fr:Boisson gazeuse aux fruits avec moins de 10% de jus
+<en:Carbonated fruit soft drinks
+en:Carbonated fruit soft drinks with less than 10% of fruit juice
+fr:Boissons gazeuses aux fruits avec moins de 10% de jus
 
-<en:Carbonated fruit soft drink with less than 10% of fruit juice
-en:Carbonated fruit soft drink with less than 10% of fruit juice without sugar and with artificial sweeteners
-fr:Boisson gazeuse aux fruits avec moins de 10% de jus non sucrée avec édulcorants
+<en:Carbonated fruit soft drinks with less than 10% of fruit juice
+en:Carbonated fruit soft drinks with less than 10% of fruit juice without sugar and with artificial sweeteners
+fr:Boissons gazeuses aux fruits avec moins de 10% de jus non sucrée avec édulcorants
 agribalyse_food_code:en:18340
 ciqual_food_code:en:18340
 ciqual_food_name:en:Fruit soft drink, carbonated (less than 10% of fruit juice), without sugar and with artificial sweetener(s)
 ciqual_food_name:fr:Boisson gazeuse aux fruits (à moins de 10% de jus), non sucrée, avec édulcorants
 
-<en:Carbonated fruit soft drink with less than 10% of fruit juice
-en:Carbonated fruit soft drink with sugar and artificial sweeteners and with less than 10% of fruit juice
-fr:Boisson gazeuse aux fruits sucrée avec édulcorants et moins de 10% de jus
+<en:Carbonated fruit soft drinks with less than 10% of fruit juice
+en:Carbonated fruit soft drinks with sugar and artificial sweeteners and with less than 10% of fruit juice
+fr:Boissons gazeuses aux fruits sucrées avec édulcorants et moins de 10% de jus
 agribalyse_food_code:en:18033
 ciqual_food_code:en:18033
 ciqual_food_name:en:Fruit soft drink, carbonated (less than 10% of fruit juice), with sugar and artificial sweetener(s)
 ciqual_food_name:fr:Boisson gazeuse aux fruits (à moins de 10% de jus), sucrée, avec édulcorants
 
-<en:Carbonated fruit soft drink with less than 10% of fruit juice
-en:Carbonated fruit soft drink with sugar and less than 10% of fruit juice
-fr:Boisson gazeuse aux fruits sucrée avec moins de 10% de jus
+<en:Carbonated fruit soft drinks with less than 10% of fruit juice
+en:Carbonated fruit soft drinks with sugar and less than 10% of fruit juice
+fr:Boissons gazeuses aux fruits sucrées avec moins de 10% de jus
 agribalyse_food_code:en:18049
 ciqual_food_code:en:18049
 ciqual_food_name:en:Fruit soft drink, carbonated (less than 10% of fruit juice), with sugar
 ciqual_food_name:fr:Boisson gazeuse aux fruits (à moins de 10% de jus), sucrée
 
-<en:Carbonated fruit soft drink with less than 10% of fruit juice
-en:Carbonated fruit soft drink with less than 10% of fruit juice without sugar and artificial sweeteners
-fr:Boisson gazeuse aux fruits avec moins de 10% de jus non sucrée sans édulcorant
+<en:Carbonated fruit soft drinks with less than 10% of fruit juice
+en:Carbonated fruit soft drinks with less than 10% of fruit juice without sugar and artificial sweeteners
+fr:Boissons gazeuses aux fruits avec moins de 10% de jus non sucrée sans édulcorant
 agribalyse_food_code:en:18345
 ciqual_food_code:en:18345
 ciqual_food_name:en:Fruit soft drink, carbonated (less than 10% of fruit juice), without sugar and artificial sweetener(s)
@@ -31582,7 +31582,7 @@ agribalyse_proxy_food_name:en:Fresh cream cheese, plain, around 3% fat
 agribalyse_proxy_food_name:fr:Fromage blanc nature, 3% MG environ
 
 <fr:Fromages blancs
-en:Fat free plain fresh cream cheese
+en:Fat-free plain fresh cream cheese
 fr:Fromage blanc nature à 0% de matières grasses
 agribalyse_food_code:en:19644
 ciqual_food_code:en:19644
@@ -31607,7 +31607,7 @@ ciqual_food_name:fr:Fromage blanc nature, gourmand, 8% MG environ
 
 <fr:Fromages blancs
 en:Fromages blancs with fruits, Fresh cream cheese with fruits and sugar around 7% fat
-fr:Fromages blancs aux fruits, Fromage blanc gourmand sucré aux fruits à 7% de matières grasses environ, Spécialité laitière sucrée aux fruits à 7% de matières grasses environ
+fr:Fromages blancs aux fruits, Fromage blanc gourmand sucré aux fruits à 7% de matières grasses environ, Spécialités laitières sucrées aux fruits à 7% de matières grasses environ
 agribalyse_food_code:en:19659
 ciqual_food_code:en:19659
 ciqual_food_name:en:Fresh cream cheese, with fruits, creamy, with sugar, around 7% fat
@@ -33415,7 +33415,7 @@ ciqual_food_name:en:Petit-Suisse, fresh cream cheese type, fruits flavoured, 2-3
 ciqual_food_name:fr:Fromage frais type petit suisse, aromatisé aux fruits, 2-3% MG, enrichi en calcium et vitamine D
 
 <en:Plain Petit-Suisse
-en:Fat free plain Petit-Suisse
+en:Fat-free plain Petit-Suisse
 fr:Petit suisse nature à 0% de matières grasses
 agribalyse_food_code:en:19663
 ciqual_food_code:en:19663
@@ -35573,73 +35573,201 @@ fr:Yaourts sans lactose
 it:Yogurt senza lattosio
 nl:Lactose-vrije yoghurt, Lactose-vrije yoghurts, Yoghurt zonder lactose, Yoghurts zonder lactose
 
-<en:Yogurts
-en:Yogurt with fruits and sweetener, Yogurt fruit flavoured with sweetener, Fermented milk with fruits and sweetener, Fermented milk fruit flavoured with sweetener, Dairy specialty with fruits and sweetener, Dairy specialty fruit flavoured with sweetener
-fr:Yaourt aromatisé avec édulcorants, Yaourt aux fruits avec édulcorants, Lait fermenté aromatisé avec édulcorants, Lait fermenté aux fruits avec édulcorants, Spécialité laitière aromatisée avec édulcorants, Spécialité laitière aux fruits avec édulcorants
+<en:Yogurt with fruits
+en:Yogurt with fruits and sweeteners
+fr:Yaourts aux fruits avec édulcorants
 ciqual_food_code:en:19675
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, w fruits or flavoured, w sweetener (average)
 ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, avec édulcorants (aliment moyen)
 
-<en:Fruit yogurts
-en:Fat free fermented milk yogurt with fruits and sweetener, Fat free dairy specialty with fruits and sweetener
-fr:Yaourt au lait fermenté aux fruits avec édulcorants à 0% de matières grasses, Spécialité laitière aux fruits avec édulcorants à 0% de matières grasses
+<en:Yogurt with fruits
+en:Fruit-flavoured yogurts with sweeteners
+fr:Yaourts aromatisés avec édulcorants
+ciqual_food_code:en:19675
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, w fruits or flavoured, w sweetener (average)
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, avec édulcorants (aliment moyen)
+
+<en:Yogurt with fruits
+en:Fermented milk with fruits and sweeteners
+fr:Lait fermenté aux fruits avec édulcorants
+ciqual_food_code:en:19675
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, w fruits or flavoured, w sweetener (average)
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, avec édulcorants (aliment moyen)
+
+<en:Yogurt with fruits
+en:Fruit-flavoured fermented milks with sweeteners
+fr:Laits fermentés aromatisés aux fruits avec édulcorants
+ciqual_food_code:en:19675
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, w fruits or flavoured, w sweetener (average)
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, avec édulcorants (aliment moyen)
+
+<en:Yogurt with fruits
+en:Dairy specialties with fruits and sweeteners
+fr:Spécialités laitières aux fruits avec édulcorants
+ciqual_food_code:en:19675
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, w fruits or flavoured, w sweetener (average)
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, avec édulcorants (aliment moyen)
+
+<en:Yogurt with fruits
+en:Fermented milks with fruits with sweeteners
+fr:Laits fermentés aux fruits avec édulcorants
+ciqual_food_code:en:19675
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, w fruits or flavoured, w sweetener (average)
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, avec édulcorants (aliment moyen)
+
+<en:Yogurt with fruits
+en:Fruit-flavoured dairy specialties with sweeteners
+fr:Spécialités laitières aromatisées aux fruits avec édulcorants
+ciqual_food_code:en:19675
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, w fruits or flavoured, w sweetener (average)
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, avec édulcorants (aliment moyen)
+
+<en:Yogurts
+en:Fat-free yogurts with fruits and sweetener
+fr:Yaourts aux fruits avec édulcorants à 0% de matières grasses
+agribalyse_food_code:en:19581
+ciqual_food_code:en:19581
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, with fruits, with sweetener, fat free
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aux fruits, avec édulcorants, 0% MG
+
+<en:Fermented milks
+en:Fermented milks with fruits and sweetener
+fr:Laits fermentés aux fruits avec édulcorants à 0% de matières grasses
+agribalyse_food_code:en:19581
+ciqual_food_code:en:19581
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, with fruits, with sweetener, fat free
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aux fruits, avec édulcorants, 0% MG
+
+<en:Dairy specialties
+en:Fat-free dairy specialty with fruits and sweetener
+fr:Spécialités laitières aux fruits avec édulcorants à 0% de matières grasses
 agribalyse_food_code:en:19581
 ciqual_food_code:en:19581
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, with fruits, with sweetener, fat free
 ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aux fruits, avec édulcorants, 0% MG
 
 <en:Fruit yogurts
-en:Fat free fermented milk yogurt with fruits and sweetener fortified with vitamin D, Fat free dairy specialty with fruits and sweetener fortified with vitamin D
-fr:Yaourt au lait fermenté aux fruits avec édulcorants à 0% de matières grasses enrichi en vitamine D, Spécialité laitière aux fruits avec édulcorants à 0% de matières grasses enrichie en vitamine D
+<en:Fermented milk yogurt
+en:Fat-free yogurts with fruits and sweetener fortified with vitamin D
+fr:Yaourt aux fruits avec édulcorants à 0% de matières grasses enrichi en vitamine D
 agribalyse_food_code:en:19582
 ciqual_food_code:en:19582
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, with fruits, with sweetener, fat free, fortified with vitamin D
 ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aux fruits, avec édulcorants, 0% MG, enrichi en vitamine D
 
+en:Fat-free fermented milk with fruits and sweetener fortified with vitamin D
+fr:Laits fermentés aux fruits avec édulcorants à 0% de matières grasses enrichi en vitamine D
+agribalyse_food_code:en:19582
+ciqual_food_code:en:19582
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, with fruits, with sweetener, fat free, fortified with vitamin D
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aux fruits, avec édulcorants, 0% MG, enrichi en vitamine D
+
+en:Fat-free dairy specialty with fruits and sweetener fortified with vitamin D
+fr:Spécialités laitières aux fruits avec édulcorants à 0% de matières grasses enrichie en vitamine D
+agribalyse_food_code:en:19582
+ciqual_food_code:en:19582
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, with fruits, with sweetener, fat free, fortified with vitamin D
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aux fruits, avec édulcorants, 0% MG, enrichi en vitamine D
+
+
 <en:Fruit yogurts
-en:Fermented milk yogurt with fruits and sugar and cream, Dairy specialty with fruits and sugar and cream
-fr:Yaourt sucré au lait fermenté aux fruits et à la crème, Spécialité laitière sucrée aux fruits et à la crème
+<en:Fermented milk yogurt
+en:Fermented milk yogurts with fruits and sugar and cream, Dairy specialty with fruits and sugar and cream
+fr:Yaourt sucré au lait fermenté aux fruits et à la crème, Spécialités laitières sucrées aux fruits et à la crème
 agribalyse_food_code:en:19589
 ciqual_food_code:en:19589
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, w fruits, with sugar, with cream
 ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aux fruits, sucré, à la crème
 
-<en:Fruit yogurts
-en:Fermented milk yogurt fortified with vitamin D with fruits and sugar, Dairy specialty fortified with vitamin D with fruits and sugar
-fr:Yaourt sucré au lait fermenté aux fruits enrichi en vitamine D, Spécialité laitière sucrée aux fruits enrichie en vitamine D
+en:yogurt fortified with vitamin D with fruits and sugar
+fr:Yaourt sucré aux fruits enrichi en vitamine D
 agribalyse_food_code:en:19592
 ciqual_food_code:en:19592
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, with fruits, with sugar, fortified with vitamin D
 ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aux fruits, sucré, enrichi en vitamine D
 
-<en:Yogurts
-en:Plain fermented milk yogurt with sugar, Plain dairy specialty with sugar
-fr:Yaourt sucré au lait fermenté, Spécialité laitière nature sucrée
+en:Fermented milk fortified with vitamin D with fruits and sugar
+fr:Laits fermentés sucré aux fruits enrichi en vitamine D
+agribalyse_food_code:en:19592
+ciqual_food_code:en:19592
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, with fruits, with sugar, fortified with vitamin D
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aux fruits, sucré, enrichi en vitamine D
+
+en:Dairy specialty fortified with vitamin D with fruits and sugar
+fr:Spécialités laitières sucrées aux fruits enrichies en vitamine D
+agribalyse_food_code:en:19592
+ciqual_food_code:en:19592
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, with fruits, with sugar, fortified with vitamin D
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aux fruits, sucré, enrichi en vitamine D
+
+en:Plain yogurts with sugar
+fr:Yaourts sucrés nature
 agribalyse_food_code:en:19599
 ciqual_food_code:en:19599
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, plain, w sugar
 ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, nature, sucré
 
-<en:Yogurts
-en:Fat free plain fermented milk yogurt, Fat free plain dairy specialty
-fr:Yaourt nature au lait fermenté à 0% de matières grasses, Spécialité laitière à 0% de matières grasses
+en:Plain fermented milk with sugar
+fr:Laits fermentés nature sucré
+agribalyse_food_code:en:19599
+ciqual_food_code:en:19599
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, plain, w sugar
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, nature, sucré
+
+en:Plain dairy specialties with sugar
+fr:Spécialités laitières nature sucrée
+agribalyse_food_code:en:19599
+ciqual_food_code:en:19599
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, plain, w sugar
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, nature, sucré
+
+en:Fat-free plain yogurts
+fr:Yaourts natures à 0% de matières grasses
+agribalyse_food_code:en:19594
+ciqual_food_code:en:19594
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, plain, fat free
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, nature, 0% MG
+
+en:Fat-free fermented milks
+fr:Laits fermentés à 0% de matières grasses
+agribalyse_food_code:en:19594
+ciqual_food_code:en:19594
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, plain, fat free
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, nature, 0% MG
+
+en:Fat-free plain dairy specialties
+fr:Spécialités laitières à 0% de matières grasses
 agribalyse_food_code:en:19594
 ciqual_food_code:en:19594
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, plain, fat free
 ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, nature, 0% MG
 
 <en:Flavoured yogurts
-en:Fat free flavoured fermented milk yogurt with sweetener, Fat free flavoured dairy specialty with sweetener
-fr:Yaourt au lait fermenté avec édulcorants à 0% de matières grasses, Spécialité laitière aromatisée avec édulcorants à 0% de matières grasses
+<en:Fermented milk yogurt
+en:Fat-free flavoured fermented milk yogurts with sweetener, Fat free flavoured dairy specialty with sweetener
+fr:Yaourt au lait fermenté avec édulcorants à 0% de matières grasses, Spécialités laitières aromatisées avec édulcorants à 0% de matières grasses
 agribalyse_food_code:en:19559
 ciqual_food_code:en:19559
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, flavoured, with sweetener, fat free
 ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aromatisé, avec édulcorants, 0% MG
 
 <en:Flavoured yogurts
-en:Fermented milk flavoured yogurt with sugar and cream, Flavoured dairy specialty with sugar and cream
-fr:Yaourt sucré aromatisé au lait fermenté et à la crème, Spécialité laitière aromatisée sucrée à la crème
-it:Yogurt aromatizzato al latte fermentato con zucchero e panna
+en:Flavoured yogurts with sugar and cream
+fr:Yaourts sucrés aromatisés à la crème
+agribalyse_food_code:en:19577
+ciqual_food_code:en:19577
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, flavoured, w sugar, with cream
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aromatisé, sucré, à la crème
+
+en:Flavoured dairy specialty with sugar and cream
+fr:Spécialités laitières aromatisées sucrées à la crème
+agribalyse_food_code:en:19577
+ciqual_food_code:en:19577
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, flavoured, w sugar, with cream
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aromatisé, sucré, à la crème
+
+en:Flavoured fermented milks with sugar and cream
+fr:Laits fermentés aromatisée sucrée à la crème
 agribalyse_food_code:en:19577
 ciqual_food_code:en:19577
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, flavoured, w sugar, with cream
@@ -35674,33 +35802,92 @@ fr:Yaourts à boire goût vanille, Yaourts à boire vanille, Yaourts à boire sa
 fr:Yaourts à boire sans sucres
 # A verifier ajoute depuis Nutrinet
 
-<en:Drinkable yogurts
-en:Flavoured dairy drinks with sugar, Flavoured fermented milks with sugar, Flavoured yogurts with sugar
-fr:Boissons lactées aromatisées sucrées au lait fermenté, Yaourts à boire aromatisés sucrés, Laits fermentés aromatisés sucrés
+en:Flavoured dairy drinks with sugar
+fr:Boissons lactées aromatisées sucrées
 agribalyse_food_code:en:19508
 ciqual_food_code:en:19508
 ciqual_food_name:en:Dairy drink or fermented milk or yogurt, flavoured, with sugar
 ciqual_food_name:fr:Boisson lactée, lait fermenté ou yaourt à boire, aromatisé, sucré
 
 <en:Drinkable yogurts
-en:Dairy drinks with sugar and fruits, Fermented milks with sugar and fruits, Yogurts with sugar and fruits
-fr:Boisson lactée sucrée au lait fermenté et aux fruits, Yaourt à boire sucré aux fruits, Lait fermenté sucré aux fruits
+en:Flavoured drinkable yogurts with sugar
+fr:Yaourts à boire aromatisés sucrés
+agribalyse_food_code:en:19508
+ciqual_food_code:en:19508
+ciqual_food_name:en:Dairy drink or fermented milk or yogurt, flavoured, with sugar
+ciqual_food_name:fr:Boisson lactée, lait fermenté ou yaourt à boire, aromatisé, sucré
+
+<en:Fermented milk drinks
+fr:Laits fermentés aromatisés sucrés
+en:Flavoured fermented milks with sugar
+agribalyse_food_code:en:19508
+ciqual_food_code:en:19508
+ciqual_food_name:en:Dairy drink or fermented milk or yogurt, flavoured, with sugar
+ciqual_food_name:fr:Boisson lactée, lait fermenté ou yaourt à boire, aromatisé, sucré
+
+en:Dairy drinks with sugar and fruits
+fr:Boisson lactée sucrée au lait fermenté et aux fruits
+agribalyse_food_code:en:19535
+ciqual_food_code:en:19535
+ciqual_food_name:en:Dairy drink or fermented milk or yogurt, with fruits, with sugar
+ciqual_food_name:fr:Boisson lactée, lait fermenté ou yaourt à boire, aux fruits, sucré
+
+<en:Fermented milk drinks
+en:Fermented milks with sugar and fruits
+fr:Lait fermenté sucré aux fruits
 agribalyse_food_code:en:19535
 ciqual_food_code:en:19535
 ciqual_food_name:en:Dairy drink or fermented milk or yogurt, with fruits, with sugar
 ciqual_food_name:fr:Boisson lactée, lait fermenté ou yaourt à boire, aux fruits, sucré
 
 <en:Drinkable yogurts
-en:Plain dairy drinks with sugar, Plain fermented milks with sugar, Plain yogurts with sugar
-fr:Boissons lactées nature sucrées au lait fermenté, Yaourts à boire nature sucrés, Laits fermentés nature sucrés
+en:Drinkable yogurts with sugar and fruits
+fr:Yaourt à boire sucré aux fruits
+agribalyse_food_code:en:19535
+ciqual_food_code:en:19535
+ciqual_food_name:en:Dairy drink or fermented milk or yogurt, with fruits, with sugar
+ciqual_food_name:fr:Boisson lactée, lait fermenté ou yaourt à boire, aux fruits, sucré
+
+en:Plain dairy drinks with sugar
+fr:Boissons lactées nature sucrées au lait fermenté
 agribalyse_food_code:en:19537
 ciqual_food_code:en:19537
 ciqual_food_name:en:Dairy drink or fermented milk or yogurt, plain, with sugar
 ciqual_food_name:fr:Boisson lactée, lait fermenté ou yaourt à boire, nature, sucré
 
 <en:Drinkable yogurts
-en:Plain dairy drinks with sugar and L Casei, Plain fermented milks with sugar and L Casei, Plain yogurts with sugar and L Casei
-fr:Boissons lactées nature sucrées au lait fermenté et L Casei, Yaourts à boire nature sucrés au L Casei, Laits fermentés nature sucrés au L Casei
+en:Plain drinkable yogurts with sugar
+fr:Yaourts à boire nature sucrés
+agribalyse_food_code:en:19537
+ciqual_food_code:en:19537
+ciqual_food_name:en:Dairy drink or fermented milk or yogurt, plain, with sugar
+ciqual_food_name:fr:Boisson lactée, lait fermenté ou yaourt à boire, nature, sucré
+
+<en:Fermented milk drinks
+en:Plain fermented milks with sugar
+fr:Laits fermentés nature sucrés
+agribalyse_food_code:en:19537
+ciqual_food_code:en:19537
+ciqual_food_name:en:Dairy drink or fermented milk or yogurt, plain, with sugar
+ciqual_food_name:fr:Boisson lactée, lait fermenté ou yaourt à boire, nature, sucré
+
+en:Plain dairy drinks with sugar and L Casei
+fr:Boissons lactées nature sucrées au lait fermenté et L Casei
+agribalyse_food_code:en:19538
+ciqual_food_code:en:19538
+ciqual_food_name:en:Dairy drink or fermented milk or yogurt, plain, with sugar, with L Casei
+ciqual_food_name:fr:Boisson lactée, lait fermenté ou yaourt à boire, nature, sucré, au L Casei
+
+<en:Fermented milk drinks
+en:Plain fermented milks with sugar and L Casei
+fr:Laits fermentés nature sucrés au L Casei
+agribalyse_food_code:en:19538
+ciqual_food_code:en:19538
+ciqual_food_name:en:Dairy drink or fermented milk or yogurt, plain, with sugar, with L Casei
+ciqual_food_name:fr:Boisson lactée, lait fermenté ou yaourt à boire, nature, sucré, au L Casei
+
+en:Plain drinkable yogurts with sugar and L Casei
+fr:Yaourts à boire nature sucrés au L Casei
 agribalyse_food_code:en:19538
 ciqual_food_code:en:19538
 ciqual_food_name:en:Dairy drink or fermented milk or yogurt, plain, with sugar, with L Casei
@@ -35722,7 +35909,7 @@ fr:Yaourts au bifidus nature
 <en:Bifidus yogurts
 <en:Fruit yogurts
 en:Fruit bifidus yogurts, Yogurt-type fermented milk with fruits with sugar with bifidus, Yogurt-type dairy specialty with fruits with sugar with bifidus
-fr:Yaourts au bifidus aux fruits, Lait fermenté de type yaourt aux fruits sucré au bifidus, Spécialité laitière de type yaourt aromatisé aux fruits au bifidus
+fr:Yaourts au bifidus aux fruits, Lait fermenté de type yaourt aux fruits sucré au bifidus, Spécialités laitières de type yaourt aromatisé aux fruits au bifidus
 agribalyse_food_code:en:19542
 ciqual_food_code:en:19542
 ciqual_food_name:en:Fermented milk or dairy specialty, yogurt type, with fruits, with sugar, with bifidus
@@ -35747,11 +35934,11 @@ ciqual_food_name:en:Fermented milk or dairy specialty, yogurt type, plain, with 
 ciqual_food_name:fr:Lait fermenté ou spécialité laitière type yaourt, nature, au bifidus
 
 <en:Yogurts
-en:Flavoured yogurts, Flavoured fermented milk yogurt with sugar, Flavoured dairy specialty with sugar
+en:Flavoured yogurts, Flavoured fermented milk yogurts with sugar, Flavoured dairy specialty with sugar
 de:aromatisierte Joghurts
 es:Yogures de sabores
 fi:Maustetut jogurtit
-fr:Yaourts aromatisés, Yaourt aromatisé sucré au lait fermenté, Spécialité laitière sucrée aromatisée
+fr:Yaourts aromatisés, Yaourt aromatisé sucré au lait fermenté, Spécialités laitières sucrées aromatisée
 he:יוגורטים בטעמים
 it:Yogurt aromatizzati
 nl:Gearomatiseerde yoghurts
@@ -35770,7 +35957,7 @@ da:Frugtyoghurt
 de:Fruchtjoghurt, Fruchtjogurt, Fruchtjoghurts, Fruchtjogurts
 es:Yogures de frutas
 fi:Hedelmäjogurtit
-fr:Yaourts aux fruits, Yaourt aromatisé , Yaourt aux fruits, Lait fermenté aromatisé, Lait fermenté aux fruits, Spécialité laitière aromatisée, Spécialité laitière aux fruits
+fr:Yaourts aux fruits, Yaourt aromatisé , Yaourt aux fruits, Lait fermenté aromatisé, Lait fermenté aux fruits, Spécialités laitières aromatisée, Spécialités laitières aux fruits
 he:יוגורט פירות
 hu:Gyümölcsjoghurtok, Joghurt gyümölccsel
 it:Yogurt alla frutta
@@ -35789,14 +35976,14 @@ agribalyse_proxy_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, 
 
 <en:Fruit yogurts
 en:Yogurt with fruits and sugar, Yogurt fruit flavoured with sugar, Fermented milk with fruits and sugar, Fermented milk fruit flavoured with sugar, Dairy specialty with fruits and added sugar, Dairy specialty fruit flavoured with sugar
-fr:Yaourt aromatisé sucré, Yaourt aux fruits sucré, Lait fermenté aromatisé sucré, Lait fermenté aux fruits sucré, Spécialité laitière aromatisée sucrée, Spécialité laitière aux fruits sucrée
+fr:Yaourt aromatisé sucré, Yaourt aux fruits sucré, Lait fermenté aromatisé sucré, Lait fermenté aux fruits sucré, Spécialités laitières aromatisées sucrée, Spécialités laitières aux fruits sucrée
 ciqual_food_code:en:19676
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, w fruits or flavoured, w sugar (average)
 ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, sucré (aliment moyen)
 
 <en:Fruit yogurts
 en:Yogurt with fruits no 0% fat, Yogurt fruit flavoured no 0% fat, Fermented milk with fruits no 0% fat, Fermented milk fruit flavoured no 0% fat, Dairy specialty with fruits no 0% fat, Dairy specialty fruit flavoured no 0% fat
-fr:Yaourt aromatisé aux fruits non allégé en matières grasses, Yaourt aux fruits non allégé en matières grasses, Lait fermenté aromatisé aux fruits non allégé en matières grasses, Lait fermenté aux fruits non allégé en matières grasses, Spécialité laitière aromatisée aux fruits non allégée en matières grasses, Spécialité laitière aux fruits non allégée en matières grasses
+fr:Yaourt aromatisé aux fruits non allégé en matières grasses, Yaourt aux fruits non allégé en matières grasses, Lait fermenté aromatisé aux fruits non allégé en matières grasses, Lait fermenté aux fruits non allégé en matières grasses, Spécialités laitières aromatisées aux fruits non allégée en matières grasses, Spécialités laitières aux fruits non allégée en matières grasses
 ciqual_food_code:en:19672
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, w fruits or flavoured, no 0% fat (average)
 ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, non allégé en MG (aliment moyen)
@@ -35855,14 +36042,14 @@ ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aromatisé
 
 <en:Fruit yogurts
 en:Dairy specialty fruit flavoured with sugar no 0% fat
-fr:Spécialité laitière aromatisée sucrée non allégée en matières grasses
+fr:Spécialités laitières aromatisées sucrées non allégées en matières grasses
 ciqual_food_code:en:19677
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, w fruits or flavoured, w sugar, no 0% fat (average)
 ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, sucré, non allégé en MG (aliment moyen)
 
 <en:Fruit yogurts
 en:Dairy specialty with fruits and sugar no 0% fat
-fr:Spécialité laitière aux fruits sucrée non allégée en matières grasses
+fr:Spécialités laitières aux fruits sucrées non allégées en matières grasses
 ciqual_food_code:en:19677
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, w fruits or flavoured, w sugar, no 0% fat (average)
 ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits, sucré, non allégé en MG (aliment moyen)
@@ -36088,10 +36275,10 @@ nl:Kastanjeyoghurts, Kastanjeyoghurt
 ro:Iaurturi cu castane
 
 <en:Yogurts
-en:Chocolate chunks yogurts, Chocolate yogurts, Fermented milk yogurt with chocolate shavings and cream and sugar, Dairy specialty with chocolate shavings and cream and sugar, straciatella yogurts
+en:Chocolate chunks yogurts, Chocolate yogurts, Fermented milk yogurts with chocolate shavings and cream and sugar, Dairy specialty with chocolate shavings and cream and sugar, straciatella yogurts
 de:Schokoladenjoghurte
 es:Yogures con trozos de chocolate
-fr:Yaourts aux copeaux de chocolat, yaourts au chocolat, Yaourt sucré au lait fermenté aux copeaux de chocolat et à la crème, Spécialité laitière aux copeaux de chocolat et à la crème, Yaourts à la straciatella
+fr:Yaourts aux copeaux de chocolat, yaourts au chocolat, Yaourt sucré au lait fermenté aux copeaux de chocolat et à la crème, Spécialités laitières aux copeaux de chocolat et à la crème, Yaourts à la straciatella
 hu:Csokoládés joghurtok
 it:Yogurt al cioccolato
 nl:Yoghurt met chocolade
@@ -36151,14 +36338,14 @@ ciqual_food_name:en:Yogurt, Greek-style, ewe's milk
 
 <en:Fruit yogurts
 en:Yoghurts high in protein on a fruit layer
-fr:Yaourts sur lit de fruits, yaourts sur lits de fruits, Yaourts sut lit de fruits, Spécialités laitières sucrées riches en protéines sur lit de fruits
+fr:Yaourts sur lit de fruits, yaourts sur lits de fruits, Yaourts sur lit de fruits, Spécialités laitières sucrées riches en protéines sur lit de fruits
 nl:Yoghurts op een laag fruit
 ciqual_food_code:en:19669
 ciqual_food_name:en:Yoghurt, high in protein, on a fruit layer
 ciqual_food_name:fr:Spécialité laitière type encas, riche en protéines, sur lit de fruits, sucrée
 
 <en:Yogurts
-en:Greek-style yogurt on a bed of fruits, Greek yogurt on a bed of fruits
+en:Greek-style yogurts on a bed of fruits, Greek yogurts on a bed of fruits
 fr:Yaourt à la grecque sur lit de fruits, Yaourts à la grecque sur lit de fruits
 agribalyse_food_code:en:19552
 ciqual_food_code:en:19552
@@ -36174,7 +36361,7 @@ en:Low-fat yogurts, Yogurt with fruits and 0% fat, Yogurt fruit flavoured with 0
 de:fettarme Joghurt, fettarme Jogurt, fettarme Joghurts, fettarme Jogurts
 es:Yogures bajos en grasa
 fi:Matalarasvaiset jogurtit
-fr:Yaourts allégés en matière grasse, Yaourts allégés en matières grasses, Yaourts allégés, Yaourt aromatisé à 0% de matières grasses, Yaourt aux fruits à 0% de matières grasses, Lait fermenté aromatisé à 0% de matières grasses, Lait fermenté aux fruits à 0% de matières grasses, Spécialité laitière aromatisée à 0% de matières grasses, Spécialité laitière aux fruits à 0% de matières grasses
+fr:Yaourts allégés en matière grasse, Yaourts allégés en matières grasses, Yaourts allégés, Yaourt aromatisé à 0% de matières grasses, Yaourt aux fruits à 0% de matières grasses, Lait fermenté aromatisé à 0% de matières grasses, Lait fermenté aux fruits à 0% de matières grasses, Spécialités laitières aromatisées à 0% de matières grasses, Spécialités laitières aux fruits à 0% de matières grasses
 he:יוגורטים דלי שומן
 hu:Alacsony zsírtartalmú joghurtok
 it:Yogurt magro
@@ -36306,9 +36493,23 @@ ciqual_food_code:en:19593
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, plain
 ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, nature
 
-<en:Yogurts
-en:Plain fermented milk yogurt with cream, Plain dairy specialty with cream
-fr:Yaourt au lait fermenté à la crème, Spécialité laitière nature à la crème
+<en:Plain yogurts
+en:Plain yogurts with cream
+fr:Yaourts natures à la crème
+agribalyse_food_code:en:19598
+ciqual_food_code:en:19598
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, plain, w cream
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, nature, à la crème
+
+en:Plain dairy specialty with cream
+fr:Spécialités laitières nature à la crème
+agribalyse_food_code:en:19598
+ciqual_food_code:en:19598
+ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, plain, w cream
+ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, nature, à la crème
+
+en:fermented milk nature à la crème
+fr:Laits fermentés nature à la crème
 agribalyse_food_code:en:19598
 ciqual_food_code:en:19598
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, plain, w cream
@@ -37343,7 +37544,7 @@ es:Yogures de soja con frambuesa
 fr:Yaourts de soja à la framboise
 
 <en:Fruit soy yogurts
-en:Lemon soy yogurts, Soy yogurt with lemon
+en:Lemon soy yogurts, Soy yogurts with lemon
 de:Zitronensojajoghurt, Sojajoghurt mit Zitrone
 es:Yogures de soja con limón
 fr:Yaourts soja au citron
@@ -80938,16 +81139,16 @@ nl:Yoghurt met granen
 ro:Iaurturi cu cereale
 
 <en:Yogurts with cereals
-en:Fat-free fermented yogurt with cereals, Fat-free fermented milk dairy specialty with cereals
-fr:Yaourt au lait fermenté aux céréales à 0% de matières grasses, Spécialité laitière aux céréales à 0% de matières grasses
+en:Fat-free fermented yogurts with cereals, Fat-free fermented milk dairy specialty with cereals
+fr:Yaourt au lait fermenté aux céréales à 0% de matières grasses, Spécialités laitières aux céréales à 0% de matières grasses
 agribalyse_food_code:en:19558
 ciqual_food_code:en:19558
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, with cereals, fat free
 ciqual_food_name:fr:Yaourt, lait fermenté ou spécialité laitière, aux céréales, 0% MG
 
 <en:Yogurts with cereals
-en:Fermented milk yogurt with cereals, Dairy specialty with cereals
-fr:Yaourt au lait fermenté aux céréales, Spécialité laitière aux céréales
+en:Fermented milk yogurts with cereals, Dairy specialty with cereals
+fr:Yaourt au lait fermenté aux céréales, Spécialités laitières aux céréales
 agribalyse_food_code:en:19579
 ciqual_food_code:en:19579
 ciqual_food_name:en:Yogurt, fermented milk or dairy specialty, w cereals
